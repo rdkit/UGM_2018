@@ -1,0 +1,7 @@
+This is siled deck and sampledata of RDKIT UGM 2018.
+The data is probided as smiles format.
+If reader want to use/show ipynb, please run fastcluster which is stored in rdkit/Contrib.
+
+Any advice and suggestions are appreciated.
+
+Takayuki
